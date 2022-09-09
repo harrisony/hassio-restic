@@ -1,4 +1,7 @@
+# This is a fork 
+here be dragons
 # HassOS restic add-on
+
 
 This add-on runs [restic](https://restic.net/) to make efficient back-ups from your HassOS installation. You can use this instead of or together with HassOSs built-in snapshot functionality. In my case, I use it because the built-in snapshot functionality doesn't really like backing up my influxdb database, which is more than 5 GiB. 
 

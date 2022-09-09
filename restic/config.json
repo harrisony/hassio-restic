@@ -1,6 +1,6 @@
 {
     "name": "Restic",
-    "version": "0.5",
+    "version": "2.0",
     "slug": "restic",
     "description": "Create back-ups using restic",
     "arch": [
